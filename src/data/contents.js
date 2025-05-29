@@ -20,7 +20,7 @@ export const getContentByProjectEndpoint = (projectEndpoint) => {
     "pokedex": {
       title: "Pokédex",
       content: `
-        <p>I developed this Pokédex for a client, collaborating with a friend to address gaps in existing Pokémon tracking tools.</p>
+        <p>I developed this Pokédex collaborating with a friend to address gaps in existing Pokémon tracking tools.</p>
         <p>Unlike most Pokédex websites, which are typically desktop-focused, English-only, or offer limited interactive features, this Pokédex is designed with a mobile-first approach and is primarily available in French. It offers a seamless and engaging experience on smartphones and tablets, ensuring accessibility and functionality across devices.</p>
         <p>It provides:</p>
         <ul>
