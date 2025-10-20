@@ -15,7 +15,7 @@ const Home = () => {
       <Textarea />
       <div className='main-content'>
         <h1 className="name">camille durthaller-renard</h1>
-        <h2 className="role">web fullstack developer. french engineer.</h2>
+        <h2 className="role">french software engineer.</h2>
         {projects.map((project, index) => (
           <div key={index} className="project">
             <a href={project.endpoint}>{project.name}</a>
